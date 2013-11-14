@@ -12,7 +12,7 @@ class ImageCode{
 	private $distrubcode;
 	private $fonturl;
 	private $session;
-	function __construct($width = 120,$height = 30,$counts = 5,$distrubcode="1235467890qwertyuipkjhgfdaszxcvbnm",$fonturl="C:\Windows\Fonts\TektonPro-BoldCond.otf"){
+	function __construct($width = 120,$height = 30,$counts = 5,$distrubcode="1235467890qwertyuipkjhgfdaszxcvbnm",$fonturl="http://phpzz.com/fonts/YaHei.Consolas.1.11b.ttf"){
 		$this->width=$width;
 		$this->height=$height;
 		$this->counts=$counts;
@@ -36,7 +36,7 @@ class ImageCode{
 		return imagecreate($this->width,$this->height);
 	}
 	private function setbackgroundcolor($im){
-		$bgcolor = ImageColorAllocate($im, rand(200,255),rand(200,255),rand(200,255));//±³¾°ÑÕÉ«
+		$bgcolor = ImageColorAllocate($im, rand(200,255),rand(200,255),rand(200,255));
 		imagefill($im,0,0,$bgcolor);
 	}
 	private function setdistrubecode($im){
@@ -63,7 +63,7 @@ class ImageCode{
 		$scode=$this->session;
 		$y=floor($height/2)+floor($height/4);
 		$fontsize=rand(30,35);
-		$fonturl="C:\Windows\Fonts\AdobeGothicStd-Bold.otf";//$this->fonturl;
+		$fonturl="http://phpzz.com/fonts/YaHei.Consolas.1.11b.ttf";//$this->fonturl;
 
 		$counts=$this->counts;
 		for($i=0;$i<$counts;$i++){
@@ -95,6 +95,6 @@ class ImageCode{
 	}else{
 		echo '不存在';
 	}*/
-	/*Header("Content-type: image/GIF");
+	Header("Content-type: image/GIF");
 	$imagecode=new  Imagecode(160,50);
-	$imagecode->imageout();*/
+	$imagecode->imageout();
