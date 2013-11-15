@@ -105,3 +105,33 @@ if(!filter_has_var(INPUT_POST, 'url')){
 }
 echo "<form action='#' method='post'><input type='text' name='url'/> <button type='submit'>提交</button></form>";
 echo "<br />-----------------------------<br />";
+
+/**
+ * filter_input_array的使用
+ */
+
+$filters = array(
+	'name'=>array(
+		'filter'=>FILTER_SANITIZE_STRING,
+	),
+	'email'=>array(
+		'filter'=>FILTER_VALIDATE_EMAIL,
+		'options'=>array(
+			"min_range"=>0,
+			"max_range"=>256
+		)
+	),
+	'url'=>array(
+		'filter'=>FILTER_VALIDATE_URL
+	),
+	'age'=>array(
+		'filter'=>FILTER_VALIDATE_INT,
+		'options'=>array(
+			'min_range'=>1,
+			'max_range'=>120
+		)
+	),
+);
+$result = filter_input_array(INPUT_POST, $filters);
+print_r($result);
+echo "<br />-----------------------------<br />";
