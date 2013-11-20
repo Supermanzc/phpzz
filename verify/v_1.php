@@ -112,7 +112,7 @@ echo "<br />-----------------------------<br />";
 
 $filters = array(
 	'name'=>array(
-		'filter'=>FILTER_SANITIZE_STRING,
+		'filter'=>FILTER_ SANITIZE_STRING,
 	),
 	'email'=>array(
 		'filter'=>FILTER_VALIDATE_EMAIL,

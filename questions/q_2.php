@@ -21,3 +21,5 @@
 //4.$_SERVER['REQUEST_TIME']
 //echo date('Y-m-d H:i:s', $_SERVER['REQUEST_TIME']); //当前系统unix时间戳
 
+
+
