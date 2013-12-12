@@ -9,4 +9,5 @@
 $arr = array('a'=>5, 'b'=>7, 'C'=>3, 'D'=>2);
 //unset($arr[1]);
 krsort($arr);
+sort($arr);
 var_dump($arr);
