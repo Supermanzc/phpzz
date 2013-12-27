@@ -50,21 +50,31 @@
 				<tr>
 					<td width="10%" height="20">居住地：</td>
 					<td width="42%" height="20">成都-郫县</td>
-					<td width="11%" height="20"></td>
-					<td width="20%" height="20"></td>
+					<td width="11%" height="20">户　口：</td>
+					<td width="20%" height="20">四川省宜宾市</td>
 				</tr>
 				<tr>
 					<td height="20">电　话：</td>
-					<td height="20" colspan="3">15528101635（手机）
+					<td width="42%" height="20">15528101635（手机）
 					</td>
+					<td width="11%" height="20">民　族：</td>
+					<td width="20%" height="20">汉<td>
+				</tr>
+				<tr>
+					<td height="20">期待工作：</td>
+					<td height="20">
+						PHP开发工程师
+					</td>
+					<td width="11%" height="20">工作年限：</td>
+					<td width="20%" height="20">1年10个月</td>
 				</tr>
 				<tr>
 					<td height="20">E-mail：</td>
-					<td height="20" colspan="3"><a href="mailto:15528101635@163.com
-																	   " class="blue1">
-							15528101635@163.com
-						</a>
+					<td height="20" colspan="3">
+						<a href="mailto:15528101635@163.com" class="blue1">15528101635@163.com</a>
 					</td>
+					<td width="11%" height="20"></td>
+					<td width="20%" height="20"></td>
 				</tr>
 			</table>
 		</td>
@@ -356,8 +366,8 @@
 			</tr>
 			<tr>
 				<td colspan="2" class="text_left">2013
-					/10--2013
-					/12：四川党建android服务器开发</td>
+					/9--2013
+					/11：四川党建android服务器开发</td>
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">软件环境：</td>
@@ -384,63 +394,55 @@
 				</td>
 			</tr>
 			<tr>
-				<td colspan="2" class="text_left">2011
-					/6--2011
-					/12：西安典致家具有限公司仓库管理系统</td>
+				<td colspan="2" class="text_left">2013
+					/4--2013
+					/9：帮帮浏览器服务器接口和浏览器官网开发</td>
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">软件环境：</td>
-				<td class="text">Windows xp+SQL Server 2005+Jdk 1.5+Tomcat 6.0</td>
+				<td class="text">Liunx Mysql Apache PHP</td>
 			</tr>
 			<tr>
 				<td class="text_left" valign="top"> 开发工具：</td>
-				<td class="text">Eclipse 3.4+Dreamweaver+Powerdesigner+Rational Rose</td>
+				<td class="text">Sublime Text2 PhpMyadmin</td>
 			</tr>
 			<tr>
 				<td width="16%" class="text_left" valign="top">项目描述：</td>
-				<td width="84%" id="Cur_Val" valign="top">该管理系统是为西安典致家具有限公司所设计，它极大提高了仓库工作人员的工作效率，大大减少了以往入出存流程繁琐、杂乱、周期长的弊端 ，基于仓库管理的全面自动化，可以减少入库管理、出库管理及库存管理中的漏洞，可以节约不少管理开支，增加企业收入，全面提高了仓库的管理水平。
-					<BR>技术描述:系统基于B/S三层架构，采用Struts2+Spring2.5 + Hibernate3.1三大框架集成，使用SQL Server2005数据库，开发中用的IDE开发工具为Eclipse3.4。
-					<BR>主要模块：数据查询、入库管理、出库管理、采购报表、销售报表、基础资料、权限管理.
-					<BR>职责概要：本人在项目中负责入库管理和这个模块，用户通过录入采购入库单增加采购的货物，并可对采购入库单及其单据中的货物明细进行添加、变更和删除操作，从而实现企业商品入库的高效化、流程化。</td>
+				<td width="84%" id="Cur_Val" valign="top">该网站主要是配合帮帮浏览器界面显示功能出接口，功能设计和官方显示网站设计等，做出更人性化的浏览器。
+					<BR>技术描述: 系统是采用Liunx系统，用户Apache服务器，Mysql做数据库，采用流行的YII框架，启用PHP的CURL模块，通过HTTPS协议传输数据。
+					<BR>主要模块：首页推荐模块，用户管理模块，评论、评分模块，黑名单模块，主流网站模块，隐藏贴模块，举报模块，推荐模块等
+					<BR>职责概要：本人在项目中负责对评论、评分的管理，主流网站的管理，推荐管理（包括桌面图标消息，桌面右下角消息，新闻盒子等）功能的实现和接口的编写</td>
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">责任描述：</td>
-				<td id="Cur_Val" valign="top">负责于入库管理模块的编码、测试工作。</td>
+				<td id="Cur_Val" valign="top">负责于评论评分模块，主流网站模块，推荐模块</td>
 			</tr>
 			<tr>
 				<td colspan="2" align="center" valign="middle">
 					<hr size="1" noshade>
 				</td>
 			</tr>
-			<tr>
-				<td colspan="2" class="text_left">2010
-					/12--2011
-					/5：西安龙江餐饮娱乐股份有限公司管理系统</td>
-			</tr>
-			<tr>
-				<td class="text_left" valign="top">软件环境：</td>
-				<td class="text">Windows xp+SQL Server 2005+Jdk 1.5+Tomcat 6.0</td>
-			</tr>
-			<tr>
-				<td class="text_left" valign="top"> 开发工具：</td>
-				<td class="text">Eclipse 3.4+Dreamweaver+Powerdesigner+Rational Rose</td>
-			</tr>
-			<tr>
-				<td width="16%" class="text_left" valign="top">项目描述：</td>
-				<td width="84%" id="Cur_Val" valign="top">本系统是一套功能强大而又简便实用的餐饮娱乐管理软件，实现了餐饮娱乐企业日常营运的全面自动管理，可广泛适用于各种规模、各种类型的餐饮娱乐企业。
-					<BR>技术描述：采用SSH三大框架，表现层jsp页面配合使用JSTL元素，使用AJAX技术实现无刷新提交.数据库采用SQL Server2005。
-					<BR>主要模块：前台营业，预订管理，会员管理，员工管理，库存管理，系统设置。
-					<BR>职责概要：本人主要要负责会员管理这一模块。该模块是为了管理vip会员信息并合理回馈会员，针对性的展开会员优惠活动，加大会员忠诚度，提高店铺营业额。</td>
-			</tr>
-			<tr>
-				<td class="text_left" valign="top">责任描述：</td>
-				<td id="Cur_Val" valign="top">负责会员管理模块的编码和测试工作。</td>
-			</tr>
+			<!-- <tr>
+			 	<td colspan="2" class="text_left">2012
+			 		/7--2013
+			 		/3：数据库维护系统</td>
+			 </tr>
+			 <tr>
+			 	<td width="16%" class="text_left" valign="top">项目描述：</td>
+			 	<td width="84%" id="Cur_Val" valign="top">对数据的收集，分类管理
+			 		<BR>技术描述：采用SSH三大框架，表现层jsp页面配合使用JSTL元素，使用AJAX技术实现无刷新提交.数据库采用SQL Server2005。
+			 		<BR>主要模块：前台营业，预订管理，会员管理，员工管理，库存管理，系统设置。
+			 		<BR>职责概要：本人主要要负责会员管理这一模块。该模块是为了管理vip会员信息并合理回馈会员，针对性的展开会员优惠活动，加大会员忠诚度，提高店铺营业额。</td>
+			 </tr>
+			 <tr>
+			 	<td class="text_left" valign="top">责任描述：</td>
+			 	<td id="Cur_Val" valign="top">负责会员管理模块的编码和测试工作。</td>
+			 </tr> --> 
 		</table>
 	</td>
 </tr>
 <tr>
-	<td height="20" align="left" valign="middle"></td>
+	<td height="10" align="left" valign="middle"></td>
 </tr>
 <tr>
 	<td align="left" valign="middle" class="cvtitle">教育经历</td>
@@ -457,16 +459,16 @@
 	<td align="left" valign="middle">
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_set">
 			<tr>
-				<td width="26%" class="text_left">2006
-					/9--2010
+				<td width="26%" class="text_left">2009
+					/9--2012
 					/6</td>
-				<td width="30%" class="text">西安科技大学</td>
-				<td width="30%" class="text">计算机科学与技术</td>
-				<td width="14%" class="text">本科</td>
+				<td width="30%" class="text">成都工业学院</td>
+				<td width="30%" class="text">计算机软件技术</td>
+				<td width="14%" class="text">大专</td>
 			</tr>
 			<tr>
-				<td id="Cur_Val" colspan="4" valign="top" height="30">主要课程：电路原理、模拟电子技术、数字逻辑、数字分析、计算机原理、微型计算机技术、计算机系统结构、计算机网络、高级语言、汇编语言、数据结构、操作系统、编译原理、系统分析与控制、信号处理原理、通信原理概论。
-					<BR>毕业设计：网上购物系统的设计与实现</td>
+				<td id="Cur_Val" colspan="4" valign="top" height="30">主要课程：程序设计基础（C++），网页设计技术，面向对象程序设计，Java Web程序设计，数据结构（C），软件工程，Java程序设计，Android移动开发等
+					<BR>毕业设计：四川省职业技能大赛官网</td>
 			</tr>
 		</table>
 	</td>

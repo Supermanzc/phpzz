@@ -25,3 +25,6 @@ echo '<br />';
 
 $str2 = strip_tags($data);
 echo $str2;
+
+echo $str2;
+
