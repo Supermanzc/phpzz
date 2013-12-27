@@ -1,0 +1,106 @@
+.head{
+    width: 980px;
+    height: auto;
+    margin: 30px auto;
+    border: 2px solid #0e90d2;
+}
+table {
+    FONT-SIZE: 12px; 
+    LINE-HEIGHT: 150%; 
+    FONT-FAMILY: '宋体'
+}
+td {
+    FONT-SIZE: 12px; 
+    LINE-HEIGHT: 150%; 
+    FONT-FAMILY: '宋体';
+}
+P {
+    FONT-SIZE: 12px; 
+    LINE-HEIGHT: 150%; 
+    FONT-FAMILY: '宋体'
+}
+.blue {
+    COLOR: #256fb8
+}
+A:link {
+    COLOR: #296ebb; 
+    TEXT-DECORATION: none
+}
+A:visited {
+    COLOR: black; 
+    TEXT-DECORATION: none
+}
+.cvtitle {
+    font-weight:700; 
+    color:#256fb8; 
+    font-size:14px; 
+    padding-top:5px;}
+.blue1 {    
+    COLOR: #ff7400
+}
+.blue1 {
+    color:#256fb8;
+}
+.blue2 {    
+    COLOR: #ff7400
+}
+.font14 {
+    font-size:14px;
+}
+.graybutton {
+    color:#676767;
+}
+.v_table001{    
+    width:710px;    
+    line-height:22px;   
+    margin:0 0 10px 10px;   
+    padding:0px;    
+    text-align:left;    
+}
+
+
+/* table {
+    max-width: 100%;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dddddd;
+}
+
+.table th {
+    font-weight: bold;
+}
+
+.table thead th {
+    vertical-align: bottom;
+}
+
+.table caption + thead tr:first-child th,
+.table caption + thead tr:first-child td,
+.table colgroup + thead tr:first-child th,
+.table colgroup + thead tr:first-child td,
+.table thead:first-child tr:first-child th,
+.table thead:first-child tr:first-child td {
+    border-top: 0;
+}
+
+.table tbody + tbody {
+    border-top: 2px solid #dddddd;
+}
+
+.table .table {
+    background-color: #ffffff;
+} */
