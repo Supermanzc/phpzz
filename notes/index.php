@@ -36,7 +36,7 @@
 				<tr>
 					<td height="26" colspan="4">
 <span class="blue1">
-<b>1年以上工作经验&nbsp;&nbsp;|&nbsp;&nbsp;男&nbsp;&nbsp;|&nbsp;&nbsp;23岁(1991年11月11日)
+<b>2年工作经验&nbsp;&nbsp;|&nbsp;&nbsp;男&nbsp;&nbsp;|&nbsp;&nbsp;23岁(1991年11月11日)
 </b>
 </span>
 					</td>
@@ -66,7 +66,7 @@
 						PHP开发工程师
 					</td>
 					<td width="11%" height="20">工作年限：</td>
-					<td width="20%" height="20">1年10个月</td>
+					<td width="20%" height="20">2年</td>
 				</tr>
 				<tr>
 					<td height="20">E-mail：</td>
@@ -153,7 +153,7 @@
 	</tr>
 	<tr>
 		<td id="Cur_Val" valign="top">
-			1.具有1年的PHP开发经验.PHP基础扎实；
+			1.PHP基础扎实；
 			<BR>2.熟练使用html、jquery、javascript、ajax等Web开发技术；
 			<BR>3.熟悉OOP编程，能够独立编写中等规模PHP应用程序；
 			<BR>4.熟练使用YII,了解ThinkPHP、Zend Framework等主流框架；
