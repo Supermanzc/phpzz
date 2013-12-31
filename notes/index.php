@@ -2,6 +2,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="index.css">
+	<title>简历</title>
 </head>
 <body>
 
@@ -42,9 +43,7 @@
 					</td>
 					<td width="17%" rowspan="6" align="center" valign="middle">
 						<img src="http://img01.51jobcdn.com/im/2009/resumetemplate/resume_match_manpic.gif" width="90" height="110">
-<span>
-										                 (ID:92999664)
-										              </span>
+<span></span>
 					</td>
 				</tr>
 				<tr>
@@ -235,7 +234,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td vAlign="center" align="left" height="20"></td>
+		<td vAlign="center" align="left" height="10"></td>
 	</tr>
 	</tbody>
 </table>
@@ -314,7 +313,7 @@
 	</td>
 </tr>
 <tr>
-	<td height="20" align="left" valign="middle"></td>
+	<td height="10" align="left" valign="middle"></td>
 </tr>
 <tr>
 	<td align="left" valign="middle" class="cvtitle">项目经验</td>
@@ -357,7 +356,7 @@
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">责任描述：</td>
-				<td id="Cur_Val" valign="top">主要负责于攻略游玩模块和投诉建议模块。</td>
+				<td id="Cur_Val" valign="top">主要负责于攻略游玩模块和投诉建议模块编码和测试工作项目展示。</td>
 			</tr>
 			<tr>
 				<td colspan="2" align="center" valign="middle">
@@ -386,7 +385,7 @@
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">责任描述：</td>
-				<td id="Cur_Val" valign="top">主要负责于服务器幻灯片和广告的添加和管理操作。</td>
+				<td id="Cur_Val" valign="top">主要负责于服务器幻灯片和广告的编码和测试工作。</td>
 			</tr>
 			<tr>
 				<td colspan="2" align="center" valign="middle">
@@ -395,8 +394,8 @@
 			</tr>
 			<tr>
 				<td colspan="2" class="text_left">2013
-					/4--2013
-					/9：帮帮浏览器服务器接口和浏览器官网开发</td>
+					/5--2013
+					/9：帮帮浏览器接口和浏览器官网开发</td>
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">软件环境：</td>
@@ -415,35 +414,75 @@
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">责任描述：</td>
-				<td id="Cur_Val" valign="top">负责于评论评分模块，主流网站模块，推荐模块</td>
+				<td id="Cur_Val" valign="top">负责于评论评分模块，主流网站模块，推荐模块编码和测试工作</td>
 			</tr>
 			<tr>
 				<td colspan="2" align="center" valign="middle">
 					<hr size="1" noshade>
 				</td>
 			</tr>
-			<!-- <tr>
-			 	<td colspan="2" class="text_left">2012
-			 		/7--2013
-			 		/3：数据库维护系统</td>
+			<tr>
+			 	<td colspan="2" class="text_left">2013
+			 		/4--2013
+			 		/5：福菓产品展示网站</td>
 			 </tr>
 			 <tr>
 			 	<td width="16%" class="text_left" valign="top">项目描述：</td>
-			 	<td width="84%" id="Cur_Val" valign="top">对数据的收集，分类管理
-			 		<BR>技术描述：采用SSH三大框架，表现层jsp页面配合使用JSTL元素，使用AJAX技术实现无刷新提交.数据库采用SQL Server2005。
-			 		<BR>主要模块：前台营业，预订管理，会员管理，员工管理，库存管理，系统设置。
-			 		<BR>职责概要：本人主要要负责会员管理这一模块。该模块是为了管理vip会员信息并合理回馈会员，针对性的展开会员优惠活动，加大会员忠诚度，提高店铺营业额。</td>
+			 	<td width="84%" id="Cur_Val" valign="top">福菓产品系列展示，主要是对产品的介绍，订购和配送方式，以及联系方式等信息
+			 		<BR>技术描述：采用YII框架，表现层PHP页面配合使用Jquery实现华丽效果。
+			 		<BR>主要模块：管理员用户模块，文章模块，产品模块，首页幻灯片模块，留言模块，用户控制模块。
+			 		<BR>职责概要：本人主要要负责用户权限模块，产品模块，幻灯片模块，留言模块</td>
 			 </tr>
 			 <tr>
 			 	<td class="text_left" valign="top">责任描述：</td>
-			 	<td id="Cur_Val" valign="top">负责会员管理模块的编码和测试工作。</td>
-			 </tr> --> 
+			 	<td id="Cur_Val" valign="top">负责各个模块的编码和测试，和前台显示的整合工作。</td>
+			 </tr>
 		</table>
 	</td>
 </tr>
 <tr>
 	<td height="10" align="left" valign="middle"></td>
 </tr>
+
+<!-- start -->
+<tr>
+	<td align="left" valign="middle" class="cvtitle">项目展示(只提供测试版本)</td>
+</tr>
+<tr>
+	<td align="middle" valign="middle" height="4">
+		<img src="http://img01.51jobcdn.com/im/2009/resumetemplate/line1_1.gif" width="100%" height="4" style="padding-left: 1px">
+	</td>
+</tr>
+<tr>
+	<td height="10" align="left" valign="middle"></td>
+</tr>
+<tr>
+	<td align="left" valign="middle">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_set">
+			<tr>
+				<td width="26%" class="text_left">帮帮浏览器官网</td>
+				<td width="" class="text"><a href="http://browser.wanthings.com/">http://browser.wanthings.com/</a></td>
+			</tr>
+			<tr>
+				<td width="26%" class="text_left">福菓官网</td>
+				<td width="" class="text"><a href="http://fuguo.wanthings.com/">http://fuguo.wanthings.com/</a></td>
+			</tr>
+			<tr>
+				<td width="26%" class="text_left">华亿石油天然气工程有限公司官网</td>
+				<td width="" class="text"><a href="http://huayi.wanthings.com/">http://huayi.wanthings.com/</a></td>
+			</tr>
+			<tr>
+				<td width="26%" class="text_left">兰菲儿女装官网</td>
+				<td width="" class="text"><a href="http://lanphil.wanthings.com/">http://lanphil.wanthings.com/</a></td>
+			</tr>
+		</table>
+	</td>
+</tr>
+<tr>
+	<td height="10" align="left" valign="middle"></td>
+</tr>
+<!--  end -->
+
 <tr>
 	<td align="left" valign="middle" class="cvtitle">教育经历</td>
 </tr>
@@ -474,8 +513,9 @@
 	</td>
 </tr>
 <tr>
-	<td height="20" align="left" valign="middle"></td>
+	<td height="10" align="left" valign="middle"></td>
 </tr>
+
 </table>
 </td>
 </tr>
@@ -496,7 +536,4 @@
 </table>
 </body>
 </html>
-
-<img src="http://ehire.51job.com/RVS/a.aspx?C=1531387&amp;R=92999664&amp;A=71540702&amp;J=48291083&amp;K=59d6278c29df4ffee5bdea0c9b8a21b7">
-</body></html>
 
