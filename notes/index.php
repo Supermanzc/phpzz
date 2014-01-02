@@ -90,9 +90,9 @@
 <b>最近工作</b>
 </span>
 <span style="color:#676767;">
-<b>
+<!-- <b>
 	[ 1年]
-</b>
+</b> -->
 </span>
 					</td>
 				</tr>
@@ -252,44 +252,13 @@
 </tr>
 <tr>
 	<td align="left" valign="middle">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_set">
-			<tr>
-				<td colspan="2" class="text_left">2012
-					/7--2013
-					/2：成都富士康科技集团
-					[ 8个月]
-				</td>
-			</tr>
-			<tr>
-				<td width="22%" class="text_left">所属行业：</td>
-				<td width="78%" class="text">高新科技企业</td>
-			</tr>
-			<tr>
-				<td class="text_left">
-					<b>it部</b>
-				</td>
-				<td class="text">
-					<b>现场维护工程师</b>
-				</td>
-			</tr>
-			<tr>
-				<td id="Cur_Val" colspan="2" valign="top">
-					主要负责公司数据库维护、和数据异常处理工作。
-				</td>
-			</tr>
-			<tr>
-				<td colspan="2" align="center" valign="middle">
-					<hr size="1" noshade="">
-				</td>
-			</tr>
-		</table>
 		
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_set">
 			<tr>
-				<td colspan="2" class="text_left">2013
-					/2--2014
+				<td colspan="2" class="text_left">2012
+					/7--2014
 					/2：成都网信天成有限公司
-					[ 1年]
+					<!-- [ 2年] -->
 				</td>
 			</tr>
 			<tr>
@@ -331,7 +300,7 @@
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_set">
 			<tr>
 				<td colspan="2" class="text_left">2013
-					/12--2014
+					/11--2014
 					/1：成都惠里微信公共平台开发</td>
 			</tr>
 			<tr>
@@ -394,8 +363,8 @@
 			</tr>
 			<tr>
 				<td colspan="2" class="text_left">2013
-					/5--2013
-					/9：帮帮浏览器接口和浏览器官网开发</td>
+					/4--2013
+					/8：帮帮浏览器接口和浏览器官网开发</td>
 			</tr>
 			<tr>
 				<td class="text_left" valign="top">软件环境：</td>
@@ -423,8 +392,8 @@
 			</tr>
 			<tr>
 			 	<td colspan="2" class="text_left">2013
-			 		/4--2013
-			 		/5：福菓产品展示网站</td>
+			 		/3--2013
+			 		/4：福菓官网</td>
 			 </tr>
 			 <tr>
 			 	<td width="16%" class="text_left" valign="top">项目描述：</td>
@@ -437,6 +406,30 @@
 			 	<td class="text_left" valign="top">责任描述：</td>
 			 	<td id="Cur_Val" valign="top">负责各个模块的编码和测试，和前台显示的整合工作。</td>
 			 </tr>
+
+			 <!-- start -->
+			 <tr>
+				<td colspan="2" align="center" valign="middle">
+					<hr size="1" noshade>
+				</td>
+			</tr>
+			 <tr>
+			 	<td colspan="2" class="text_left">2012
+			 		/10--2013
+			 		/1：成都荷花池商铺网站</td>
+			 </tr>
+			 <tr>
+			 	<td width="16%" class="text_left" valign="top">项目描述：</td>
+			 	<td width="84%" id="Cur_Val" valign="top">
+			 		<BR>技术描述：采用YII框架,ajax异步处理技术，php缓存技术等
+			 		<BR>主要模块：普通用户模块，店铺用户模块，店铺模块，商品模块，购物车模块，订单模块，搜索模块等
+			 		<BR>职责概要：本人主要要负责系统功能测试和bug排查工作</td>
+			 </tr>
+			 <tr>
+			 	<td class="text_left" valign="top">责任描述：</td>
+			 	<td id="Cur_Val" valign="top">负责各个模块的功能的测试和bug的检测。</td>
+			 </tr>
+			 <!-- end -->
 		</table>
 	</td>
 </tr>
