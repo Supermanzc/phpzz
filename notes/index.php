@@ -152,10 +152,10 @@
 	</tr>
 	<tr>
 		<td id="Cur_Val" valign="top">
-			1.PHP基础扎实；
+			1.PHP基础扎实，能在WAMP和LAMP环境中熟练编程，并有相关项目；
 			<BR>2.熟练使用html、jquery、javascript、ajax等Web开发技术；
-			<BR>3.熟悉OOP编程，能够独立编写中等规模PHP应用程序；
-			<BR>4.熟练使用YII,了解ThinkPHP、Zend Framework等主流框架；
+			<BR>3.熟悉<b>OOP编程</b>，能够独立编写中等规模PHP应用程序；
+			<BR>4.熟练使用<b>YII</b>,了解ThinkPHP、Zend Framework等主流框架；
 			<BR>5.熟悉HTML、Javascript、jQuery 、Ajax等表现层技术；
 			<BR>6.熟悉sql语句，熟悉mysql,SQL Server数据库；
 			<BR>7.熟练掌握apache.了解linux操作系统；
